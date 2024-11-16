@@ -1,0 +1,70 @@
+*{
+  margin: 0; /* outside the box */
+  padding: 0; /* inside the box */
+  box-sizing: border-box;
+}
+
+body,html{
+  width: 100%;
+  height: 100%;
+}
+
+.abcdef{
+  display: flex;
+  justify-content: center;
+  padding-top: 60px;
+  padding-bottom: 10px;
+  color: #444;
+  font-size: 23px;
+  font-weight: 400;
+}
+
+.mnopqr{
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  font-weight: 500;
+  color: #444;
+  font-size: 25px;
+}
+
+.mmnnbbvvccxxzz{
+  display: flex;
+  justify-content: space-between;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 30px;
+  box-shadow: 2px 1px 2px #eee;
+}
+
+.Yogya{
+  display: flex;
+  justify-content: center;
+  padding-top: 40px;
+}
+
+.Mayank{
+  padding: 20px;
+  color: #666;
+  cursor: pointer;
+}
+
+.Yash{
+  display: flex;
+}
+
+.Bablu{
+  display: flex;
+  justify-content: center;
+}
+
+#Hello{
+  background-color : #387ed1;
+  padding: 10px 30px 10px 30px;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+  margin-top: 25px;
+  border: 1px solid rgba(0,0,0,0);
+  border-radius: 3px;
+}
